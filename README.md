@@ -1,6 +1,6 @@
 # food_app
 
-A new Flutter project.
+A new Flutter project created watching the tutorials "Learn Flutter & Dart to Build iOS & Android Apps [2020]" by Maximilian Schwarzmüller.
 
 ## Getting Started
 
